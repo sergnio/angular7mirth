@@ -43,6 +43,14 @@ If you user the MC Admin Launcher, the same username and password will suffice.
 
 `Azure exposure`  
 Limited Azure exposure, though I'm comfortable with AWS, which is conceptually nearly identical to Azure.
+# Important links
+Client side hosted on github pages (explained below) which connects to back-end REST API  
+https://sergnio.github.io/angular7mirth/
+
+Database and back-end server hosted on AWS (explained below)
+https://ec2-3-16-78-46.us-east-2.compute.amazonaws.com:8443
+
+username and password to access dashboard listed a few lines above
 
 # The Process
 ### Why build this application?
@@ -58,10 +66,10 @@ The purpose of building this application was to showcase my current understandin
 
 ##### Front-end
 - Angular 7
+- Angular routing
 - Javascript
 - NPM
 - Bootstrap 4
-- 
 
 ### Steps I took
 _**Disclaimer:**_ I've chosen to use **AWS** to quickly build out this application, as I wanted to create something quickly that demonstrates my knowledge of all or most of the technologies that are sought after.
