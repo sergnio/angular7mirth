@@ -17,10 +17,10 @@ I have extensive AngularJS experience from Thomson Reuters, and working Angular 
 I've been a full stack developer for the past three years, working extensively with Oracle and MySQL databases, along with NoSQL databases.
 
 `Excellent written and verbal communication skills`  
-Please observe this documentation as an example of my verbal communcation skills. As a business owner the past 1 year, I've developed extensive verbal skills as a necessary requirement to acquire business.
+Please observe this documentation as an example of my verbal communication skills. As a business owner the past 1 year, I've developed extensive verbal skills as a necessary requirement to acquire business.
 
 `Unix`  
-2+ years of experience working with linux server configurations.
+2+ years of experience working with Linux server configurations.
 
 `Javascript`  
 I've used Javascript more than any other language, building a few applications with Full-Stack Javascript.
@@ -76,13 +76,13 @@ The purpose of building this application was to showcase my current understandin
 
 ### Steps I took
 _**Disclaimer:**_ I've chosen to use **AWS** to quickly build out this application, as I wanted to create something quickly that demonstrates my knowledge of all or most of the technologies that are sought after.
-1) First I created an EC2 instance, ensuring to encrypt the columes which will theoretically contain patient information. To do so, I created a enw EBS boot volume, and installed my application on it accordingly.
+1) First I created an EC2 instance, ensuring to encrypt the volumes which will theoretically contain patient information. To do so, I created a enw EBS boot volume, and installed my application on it accordingly.
 2) I then configured the security settings to allow `TCP` connections from port `80` from my personal IP, along with `HTTP` requests on `port 8080`, and finally `HTTPS` requests on `port 8443` (which is necessary for later)
 3) I went ahead and installed the `java 1.8`, `mariadb` and `mariadb-server` packages, and started up the mariadb server.
 4) I created a new user called 'admin'.
 5) As the root user, I logged into the database and created database called 'mirth', and proceeded to grant all permissions for the 'admn' user on the table 'mirth', and left the database along for a little while.
 6) Now I used wget to download mirth connect version 3.4.2 rpm and proceeded to unzip the package.
-7) I changed to conf/mirth.properties file to add my MySQL dburl, username, and password, so MC knows which database to use and how to log into it.
+7) I changed to conf/mirth.properties file to add my MySQL db url, username, and password, so MC knows which database to use and how to log into it.
 8) I then started the MC Service - at this point, MC auto populated 13 tables in my database, confirming my service is running properly.
 9) As a bonus, I added Mirthconnect to my Systemd startup, so it MC automatically starts upon server reboot/start.
 10) I then logged into my MC Administrator by accessing `http://ec2-3-16-78-46.us-east-2.compute.amazonaws.com:8080`, and clicking the "access secure website" button.
@@ -126,7 +126,7 @@ My main goal for this was to create a backend app, a simple Angular app, and cal
 - You reap what you sow - there's no shortcut. You get out what you put in. Period. I've learned and relearned so much about these technologies I've been working with, and I had a blast through it all.
 
 ### Wrapping it up
-While this isn't a perfect representation of all technologies involved, and while I may not have showcased everything (there aren't too many ways to showcase SELECT and JOIN statements), I belive this is a fantastic representation of my abilities to:
+While this isn't a perfect representation of all technologies involved, and while I may not have showcased everything (there aren't too many ways to showcase SELECT and JOIN statements), I believe this is a fantastic representation of my abilities to:
 - Produce on a timeline
 - Prove initiative
 - Deep knowledge of full stack technologies.
