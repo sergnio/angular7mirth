@@ -120,6 +120,7 @@ While this isn't a perfect representation of all technologies involved, and whil
 - Prove initiative
 - Deep knowledge of full stack technologies.
 
-Thank you for reading!
-Best Regards,
+Thank you for reading!  
+
+Best Regards,  
 Sergio Najera
