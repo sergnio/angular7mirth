@@ -127,8 +127,8 @@ My main goal for this was to create a backend app, a simple Angular app, and cal
 
 ### Wrapping it up
 While this isn't a perfect representation of all technologies involved, and while I may not have showcased everything (there aren't too many ways to showcase SELECT and JOIN statements), I believe this is a fantastic representation of my abilities to:
-- Produce on a timeline
-- Prove initiative
+- Produce high quality work, ensuring maximum output with minimal waste, on a timeline
+- Prove intiative and independence by showing that I am capable and willing to put in hard work, even when I'm not asked to.
 - Deep knowledge of full stack technologies.
 
 ### Thank you for reading!  
