@@ -4,12 +4,15 @@ This application is in response to a job description, where the outlined criteri
 My qualifications for each requirenebt are as follows:
 
 `3+ years development experience`
+
 I graduated in June of 2016, with internship experience during the summer of 2015. This nearly 3 full years of experience.
 
 `2+ years web development`
+
 I've been developing web applications for each role during my career.
 
 `Angular development`
+
 I have extensive AngularJS experience from Thomson Reuters, and working Angular 2-7 experience from Thomson Reuters, as well as Sergio Solutions.
 
 `SQL/DDL development in relational databases (Oracle, SQL Server, MySQL, etc)`
