@@ -1,5 +1,6 @@
 # Sergio's Mirth Angular App
 
+### What is this?
 This application is in response to a job description, where the outlined criteria include:
 My qualifications for each requirement are as follows:
 
