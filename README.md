@@ -4,7 +4,7 @@ This application is in response to a job description, where the outlined criteri
 My qualifications for each requirement are as follows:
 
 `3+ years development experience`  
-I graduated in June of 2016, with internship experience during the summer of 2015. This nearly 3 full years of experience.
+I've started develping as of June of 2016, have been consulting for the past 1 year, with internship experience during the summer of 2015. This nearly 3 full years of experience.
 
 `2+ years web development`  
 I've been developing web applications for each role during my career.
