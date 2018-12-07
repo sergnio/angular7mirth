@@ -1,7 +1,7 @@
 # Sergio's Mirth Angular App
 
 This application is in response to a job description, where the outlined criteria include:
-My qualifications for each requirenebt are as follows:
+My qualifications for each requirement are as follows:
 
 `3+ years development experience`  
 I graduated in June of 2016, with internship experience during the summer of 2015. This nearly 3 full years of experience.
