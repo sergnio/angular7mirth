@@ -1,7 +1,7 @@
 # Sergio's Mirth Angular App
 
 ### What is this?
-This application is in response to the job description.  
+The purpose of building this application was to showcase my current understanding of languages and frameworks, and also to give a better understand of what type of candidate I am.  
 My qualifications for each requirement are as follows:
 
 `3+ years development experience`  
@@ -56,8 +56,6 @@ https://ec2-3-16-78-46.us-east-2.compute.amazonaws.com:8443
 username and password to access dashboard listed a few lines above
 
 # The Process
-### Why build this application?
-The purpose of building this application was to showcase my current understanding of languages and frameworks, and also to give a better understand of what type of candidate I am.
 
 ### Underlying Technology
 ##### Back-end
